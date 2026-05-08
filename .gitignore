@@ -4,3 +4,5 @@ node_modules
 Resumen.md
 PROYECTO_COMPLETADO.md
 /generated/prisma
+.gitignore
+.env.example
